@@ -1,6 +1,6 @@
 # Frontend Mentor — E-commerce Product Page
 
-![Project preview](./design/desktop-preview.jpg)
+![Project preview](PO.png)
 
 ## Overview
 
